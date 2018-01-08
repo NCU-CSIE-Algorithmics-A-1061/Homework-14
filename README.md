@@ -14,7 +14,7 @@
 The **subgraph-isomorphism problem** takes two undirected graphs **_G<sub>1</sub>_** and **_G<sub>2</sub>_**, and it asks whether **_G<sub>1</sub>_** is isomorphic to a subgraph of **_G<sub>2</sub>_**. Show that the subgraph-isomorphism problem is **NP-complete**.
 
 2. Exercises 34.5-2<br>
-Given an integer m x n matrix **_A_**, and an integer m-vector **_b_**, the **0-1 integer- programming problem** asks whether there exists an integer n-vector **_x_** with elements in the set _{0, 1}_ such that _Ax ≤ b_. Prove that 0-1 integer programming problem is **NP-complete**. (Hint: Reduce from **3-CNF-SAT**.)
+Given an integer m x n matrix **_A_**, and an integer m-vector **_b_**, the **0-1 integer-programming problem** asks whether there exists an integer n-vector **_x_** with elements in the set _{0, 1}_ such that _Ax ≤ b_. Prove that 0-1 integer programming problem is **NP-complete**. (Hint: Reduce from **3-CNF-SAT**.)
 
 3. Exercises 34.5-7<br>
 The **longest-simple-cycle problem** is the problem of determining a simple cycle (no repeated vertices) of maximum length in a graph. Formulate a related decision problem, and show that the decision problem is **NP-complete**.
